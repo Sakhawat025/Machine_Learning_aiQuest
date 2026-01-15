@@ -18,7 +18,7 @@ In simple terms, regression helps answer questions like:
 
 ## Key Types of Regression in Machine Learning
 
-### 1. **[Linear Regression](./linear-regression/README.md)**
+### 1. **[Linear Regression](./2.Linear Regression/README.md)**
 Linear Regression is used to predict a dependent variable using a linear relationship with one or more independent variables.
 
 - **Simple Linear Regression**: Involves a single independent variable.
