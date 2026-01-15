@@ -9,7 +9,6 @@ This project provides a detailed explanation and implementation of **Regression 
 ### Regression Analysis
 Regression Analysis is a method to model the relationship between a **dependent variable** (target) and one or more **independent variables** (features). The goal is to predict continuous values based on the given data.
 
----
 
 ### Types of Regression
 
@@ -30,7 +29,6 @@ Both **Ridge** and **Lasso Regression** are regularization techniques that add a
 #### 4. **Logistic Regression**
 **Logistic Regression** is used for classification tasks, where the dependent variable is categorical. It can be used for binary or multi-class classification by predicting the probability of an event occurring.
 
----
 
 ### Loss and Cost Functions
 Loss and cost functions are used to evaluate the performance of a regression model. Common functions include:
